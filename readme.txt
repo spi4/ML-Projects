@@ -1,0 +1,1 @@
+These files are chapter notes from the book Hands On Machine Learning with Scikit-Learn and Tenserflow. Some of the code is copied from the reference material found here: https://github.com/ageron/handson-ml2
